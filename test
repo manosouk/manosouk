@@ -1,0 +1,224 @@
+#EXTM3U
+
+-------Movie-------
+
+#EXTINF:-1,USA: Box Film 
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,USA: World Movie
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1,USA: Warner
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1,USA: FXX HD
+http://stariptv.org:8080/wael2021/123456/148464
+#EXTINF:-1,USA: HBO HD
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1,USA: Cinemax
+http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
+#EXTINF:-1,USA: Star Movie
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,USA: FW SOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,USA: FW MOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,USA: FX HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14356
+#EXTINF:-1,USA: PARAMOUNT CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14352
+#EXTINF:-1,USA: SHOWTIME HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14338
+#EXTINF:-1,USA: TIMELESS DRAMA
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14339
+#EXTINF:-1,USA: SUNDANCE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14335
+#EXTINF:-1,USA: SYFY HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14334
+#EXTINF:-1,Channel8 Thailand 
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+-------nature and Discovery-------
+
+#EXTINF:-1,USA: PSI SARADEE
+https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+#EXTINF:-1,USA: US: Nat Geo Wild
+http://stariptv.org:8080/wael2021/123456/148476
+#EXTINF:-1,USA: US: National Geographic
+http://stariptv.org:8080/wael2021/123456/148475
+#EXTINF:-1,USA: US: Discovery
+http://stariptv.org:8080/wael2021/123456/148482
+#EXTINF:-1,USA: Discovery Channel
+http://fortv.cc:8080/Rob/Rob2021/53684
+#EXTINF:-1,USA: Discovery +1 SD
+http://stariptv.org:8080/wael2021/123456/84785
+#EXTINF:-1,USA: Lovenature FHD 
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,USA: Nat Geo VN
+http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,USA: INWILD 
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,USA: Xplore 
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1,USA: US: Nat Geo Wild
+http://stariptv.org:8080/wael2021/123456/148476
+#EXTINF:-1,USA: US: National Geographic
+http://stariptv.org:8080/wael2021/123456/148475
+#EXTINF:-1,USA: US: Discovery
+http://stariptv.org:8080/wael2021/123456/148482
+#EXTINF:-1,USA: PSI SARADEE
+https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+#EXTINF:-1,USA: NASA
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,USA: Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,USA: DIY Network
+http://1tv1.net:8080/euro2021/123456/148518
+#EXTINF:-1,USA: Discovery Turbo
+http://1tv1.net:8080/euro2021/123456/84794
+#EXTINF:-1,Rock Entertainment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1,Rock Extreme 
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1,Blue Ant Entertainment 
+http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,Blue Ant Extreme 
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+-------Motor and Sports-------
+
+#EXTINF:-1,USA: Canal Motor 
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1,USA: MOTORVISION 
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
+#EXTINF:-1,USA: MotorCyclist 
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1,USA: Freesports
+http://fortv.cc:8080/Rob/Rob2021/53715
+#EXTINF:-1,USA: Premier Sports 1
+http://fortv.cc:8080/Rob/Rob2021/35257
+#EXTINF:-1,USA: SKY SP PREMIER LEAGUE FHD
+http://fortv.cc:8080/Rob/Rob2021/35242
+#EXTINF:-1,USA: Sky Sports F1
+http://fortv.cc:8080/Rob/Rob2021/53704
+#EXTINF:-1,USA: SPORT5 HD
+http://stariptv.org:8080/wael2021/123456/15556
+#EXTINF:-1,USA: SPORT3 EN HD
+http://stariptv.org:8080/wael2021/123456/112463
+#EXTINF:-1,USA: SPORT1 EN HD
+http://stariptv.org:8080/wael2021/123456/112461
+#EXTINF:-1,USA: SPORT6 HD
+http://stariptv.org:8080/wael2021/123456/15555
+#EXTINF:-1,USA: RED BULL TV
+http://1tv1.net:8080/euro2021/123456/148504
+#EXTINF:-1,USA: ESPN1
+http://1tv1.net:8080/euro2021/123456/148465
+#EXTINF:-1,USA: ESPN2
+http://1tv1.net:8080/euro2021/123456/148466
+#EXTINF:-1,USA: Fox Sport 2
+http://1tv1.net:8080/euro2021/123456/148447
+#EXTINF:-1,USA: Fox Sport 1
+http://1tv1.net:8080/euro2021/123456/148446
+#EXTINF:-1,USA: ESPN 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/36229
+#EXTINF:-1,USA: TENNIS CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14350
+#EXTINF:-1,USA: Box Nation HD (P)
+http://fortv.cc:8080/Rob/Rob2021/53716
+#EXTINF:-1,USA: MLB
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30084
+#EXTINF:-1,USA: NBA
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30083
+#EXTINF:-1,USA: WWE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14342
+#EXTINF:-1,USA: NBCSN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/46925
+#EXTINF:-1,USA: BEIN SPORTS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/46926
+
+-------Cartoon-------
+
+#EXTINF:-1,USA: FW TOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,USA: Cartoon Network
+http://fortv.cc:8080/Rob/Rob2021/53719
+#EXTINF:-1,USA: Boomerang th
+http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
+#EXTINF:-1,USA: Sanook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,USA: Da Vinci Kids 
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,USA: Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1,USA: PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,USA: Aniplus
+http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
+
+-------NEWS-------
+
+#EXTINF:-1,Fox Sports News AUS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1,Sky News 
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+#EXTINF:-1,Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,Channel News Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,BBC World News 
+http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,ABC News Aus
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,ABC NewsLive
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,CBSN
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1,NHK World 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,DW EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,France 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,Al Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,TRT World 
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,EURO News
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,USA: ABC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14332
+#EXTINF:-1,USA: NBC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14330
+#EXTINF:-1,USA: CBS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14358
+#EXTINF:-1,USA: FOX NEWS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14380
+#EXTINF:-1,USA: CNBC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14374
+#EXTINF:-1,USA: ESPN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14361
+#EXTINF:-1,USA: FOX NEWS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14357
+#EXTINF:-1,USA: CBS NEWS HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14383
+#EXTINF:-1,USA: CNN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/46923
+#EXTINF:-1,USA: MSNBC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/46924
+#EXTINF:-1,USA: E!
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/36039
+#EXTINF:-1,USA: TLC CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14331
+#EXTINF:-1,USA: AMC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/14382
+
+
+
+
